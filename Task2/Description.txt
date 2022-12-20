@@ -1,0 +1,2 @@
+I mostly used the Gaussian Blur filter with radius 1 before extracting the binary layers, 
+and the Median with radii 0.5, 1, and 2 afterward, depending on the result.
