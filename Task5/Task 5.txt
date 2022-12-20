@@ -1,0 +1,2 @@
+The difference that I've noticed is that the first method always detects the outmost edges (hair, shouldres, etc), 
+while the second method does not always do that. 
