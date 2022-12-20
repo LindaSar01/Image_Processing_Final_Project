@@ -1,0 +1,3 @@
+As the head of the person in the photo rotates by 20 degrees, the nested ellipses move from left to right
+on the 2d plane, almost making a line (the ellipses move up and down, but not significantly, 
+staying in the same neighborhood).  
